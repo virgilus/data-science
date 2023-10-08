@@ -1,14 +1,16 @@
-Statistics ATP
-October the 4th
-Hello World ! :)
+Statistics
+Master 2 in Centrale Marseille
 
-~time~;~country~;~population~;~pop_clean~;~educ_years~;~salary~;~siblings~;~age_group~;~father_degree~;~mother_degree~;~size~;~gender~;~pets~;~sport~;~colour~;~show~
-~2023/10/03 5:10:15 PM UTC+3~;~China~;~1.4 billion~;~1400000000~;~8~;~15000~;~0~;~23 - 27 years old~;~Licence~;~Licence~;~163~;~Woman~;~dog, cat, panda~;~badminton~;~green~;~friends~
-~2023/10/03 5:10:22 PM UTC+3~;~Brazil~;~150000000~;~150000000~;~30~;~999~;~1~;~50 - 60 years old~;~Licence~;~No diploma~;~230~;~Man~;~Capper, Lassy, Dumbo~;~Cliff Jumping~;~Black~;~Six Feet Under~
-~2023/10/03 5:10:33 PM UTC+3~;~Italy~;~60m~;~60000000~;~7~;~3000~;~2~;~27 - 31 years old~;~Master or PhD~;~Licence~;~1.82 m~;~Man~;~dog, cat, dragon~;~basketball~;~yellow~;~masterchef~
-~2023/10/03 5:10:34 PM UTC+3~;~Germany~;~80000000~;~80000000~;~ 8~;~4000~;~5~;~27 - 31 years old~;~Master or PhD~;~Master or PhD~;~185~;~Man~;~cat, dog, rabbit ~;~climbing~;~red~;~sex education~
-~2023/10/03 5:10:52 PM UTC+3~;~Italy~;~60 Mln~;~60000000~;~9~;~3500~;~2~;~23 - 27 years old~;~French baccalaureate~;~French baccalaureate~;~175~;~Man~;~Cats, owls, raccoons~;~Volleyball~;~Blue~;~How I met your mother~
-~2023/10/03 5:11:07 PM UTC+3~;~France~;~68 millions~;~68000000~;~8~;~10000~;~0~;~31 - 34 years old~;~French baccalaureate~;~French baccalaureate~;~1m65~;~Woman~;~cat, dog, my son~;~NAN~;~blue~;~none~
-~2023/10/03 5:11:12 PM UTC+3~;~Spain~;~47M~;~47000000~;~6~;~2500~;~2~;~23 - 27 years old~;~No diploma~;~No diploma~;~1.62~;~Woman~;~dog, cat, parrot~;~Climbing~;~Yellow~;~The office~
-~2023/10/03 5:11:17 PM UTC+3~;~Italy~;~30M~;~30000000~;~20~;~5500~;~2~;~40 - 50 years old~;~No diploma~;~No diploma~;~154~;~Woman~;~cat~;~tennis~;~blue~;~~
-~2023/10/03 8:43:16 PM UTC+3~;~france~;~70 million~;~70000000~;~8~;~1000000~;~0~;~35 - 40 years old~;~Master or PhD~;~Licence~;~1m78~;~Man~;~pandas, python, koalas~;~tenis~;~oraange~;~Friend~
+"time","country","population","pop_clean","educ_years","salary","siblings","age_group","father_degree","mother_degree","size","gender","pets","sport","colour","show"
+"2023/09/15 11:45:35 PM UTC+3","China","1.4 billion","1400000000","6","4500 ","0","23 - 27 years old","No diploma","No diploma","165","Man","dog, cat, rabbit","tennis","red","Jimmy Fallon"
+"2023/09/16 9:57:31 AM UTC+3","China","1,400,000,000","1400000000","2","15000","0","23 - 27 years old","Licence","Licence","174","Man","dog,cat,bear","football","blue","WWE"
+"2023/09/16 12:51:43 PM UTC+3","France","66 milions","66000000","5","4000","4","18 - 22 years old","Licence","Licence","175","Man","cat,dog,bird","Handball","violet","Invincible"
+"2023/09/16 2:07:35 PM UTC+3","Armenia","2,8 million","2800000","5","10000","2","23 - 27 years old","Licence","Licence","163 cm","Woman","Dog, Turtle, Lion","Badminton","Purple","The Big Bang Theory"
+"2023/09/16 5:15:22 PM UTC+3","Lebanon ","4 millions ","4000000","8","4500 ","1","31 - 34 years old","Licence","No diploma","1.81","Man","Dog,cat, Bird","Basketball ","Bleu","Families "
+"2023/09/16 5:42:20 PM UTC+3","Iran ","85 millions ","85000000","7","7000","2","35 - 40 years old","French baccalaureate","Licence","181","Man","Dog, cat","Football ","Red","Friends"
+"2023/09/17 12:12:44 AM UTC+3","Morocco","37,840,044","37840044","4","310000","5","18 - 22 years old","Licence","Licence","1,70 ","Woman","Dog,Hamster,rabbit","Horse riding","Green","Friends"
+"2023/09/17 1:06:51 PM UTC+3","Lebanon","6 Million","6000000","5","10000","0","23 - 27 years old","No diploma","No diploma","154","Woman","cats, dogs, panda","hiking","green","friends "
+"2023/09/17 1:31:23 PM UTC+3","china","1.4 billion","1400000000","6","4500","0","23 - 27 years old","No diploma","No diploma","1.80m","Man","dog, cat","basketball","black","I dont watch this kind of show"
+"2023/09/18 9:02:32 AM UTC+3","Sweden ","10 million","10000000","4","5000","2","23 - 27 years old","Master or PhD","Licence","187","Man","Dog, dog, dog","Football","Green","Breaking Bad"
+"2023/09/18 1:02:07 PM UTC+3","Sweden ","10 million","10000000","4","5000","2","23 - 27 years old","Master or PhD","Licence","187","Man","Dog, dog, dog","Football","Green","Breaking Bad"
+"2023/09/24 8:59:13 PM UTC+3","france","68.000.000","68000000","10","5000000","1","35 - 40 years old","Master or PhD","Licence","1,78 (m)","Man","cat, rat, turtle","tenis","block","breaking bald"
