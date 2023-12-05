@@ -1,0 +1,13 @@
+Statistics ATP
+Introduction to ML and Data Science - December 2023
+Hello World!
+
+time;country;city;salary;age;size;gender;animals;colour
+2023/12/04 12:40:25 PM +0100;italy;rome;20000;40 - 50 years old;168 cm;Man;dog,dog,dog;blue
+2023/12/04 12:40:53 PM +0100;italy;rome;3000;33 - 39 years old;183;Man;horse,turtle,snake;brown
+2023/12/04 12:42:11 PM +0100;Italy;Rome;4500;28 - 32 years old;178;Man;Cat,Goat,Girlfriend;Orange
+2023/12/04 12:42:11 PM +0100;Italy;Rome;3000;23 - 27 years old;1,78m;Woman;berneese dog, corgi dog and golden retriever;Blue
+2023/12/04 12:42:43 PM +0100;UK;London;1000000;23 - 27 years old;180;Man;dog, guinea pig, rabbit;red
+2023/12/04 12:42:44 PM +0100;France;paris;300000;33 - 39 years old;1m 78 !;Man;python, Pandas, Cat;gren
+2023/12/04 12:43:09 PM +0100;UK;London;5000;51 - 60 years old;183;Man;turtle, gecko, spider;green
+2023/12/04 12:44:01 PM +0100;Taiwan;Taipei;5000;28 - 32 years old;191 cm;Man;dogs,birds,cats;green
