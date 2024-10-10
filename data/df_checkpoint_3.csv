@@ -1,4 +1,4 @@
-country,region,population,area (km²),gdp ($ per capita),birthrate,deathrate,density (per km²),Date of admission,Membership duration (days)
+country,region,population,area (km²),gdp ($ per capita),birthrate,deathrate,density (per km²),date of admission,membership duration (days)
 Afghanistan,ASIA (EX. NEAR EAST),31056997,647500,700.0,46.6,20.34,48.0,1946-11-19,28167
 Albania,EASTERN EUROPE,3581655,28748,4500.0,15.11,5.22,124.6,1955-12-14,24855
 Algeria,NORTHERN AFRICA,32930091,2381740,6000.0,17.14,4.61,13.8,1962-10-08,22365
