@@ -1,5 +1,5 @@
 member state,date of admission,notes,original member
-Afghanistan,19 November 1946,"On 1 December 2021, the nine-nation Credentials Committee of the General Assembly voted to defer a decision to allow the Taliban to represent Afghanistan at the UN.[13] On 15 February 2022, the UN released an updated list of member state officials with the names of Ghani administration officials replaced with the placeholder string ""..."" and a blank space in place of the ""Date of Appointment"" field. The titles corresponding to these placeholder names continue to use the designation ""Islamic Republic of Afghanistan"".[14][15] On 12 December 2022, the Credentials Committee again deferred the decision.[16] On 6 December 2023, the Credentials Committee again deferred the decision.[17][18]",False
+Afghanistan,19 November 1946,"Afghanistan and the United Nations The ruling Islamic Emirate of Afghanistan, in power since 2021, remains unrecognized by the United Nations. The defunct Islamic Republic of Afghanistan remains recognized and the UN continues to display its flag at official functions.[14][15][16][17] Since 2024, Afghanistan's General Assembly voting rights have been suspended due to nonpayment of dues.[18]",False
 Albania,14 December 1955,,False
 Algeria,8 October 1962,,False
 Andorra,28 July 1993,,False
@@ -23,7 +23,7 @@ Plurinational State of Bolivia,14 November 1945,Previously referred to as Bolivi
 Bosnia and Herzegovina,22 May 1992,Former member: Yugoslavia (original member),False
 Botswana,17 October 1966,,False
 Brazil,24 October 1945,Brazil and the United Nations,True
-Brunei Darussalam,21 September 1984,,False
+Brunei,21 September 1984,,False
 Bulgaria,14 December 1955,,False
 Burkina Faso,20 September 1960,Name was changed from Upper Volta on 6 August 1984.,False
 Burundi,18 September 1962,,False
@@ -62,23 +62,23 @@ Fiji,13 October 1970,Fiji and the United Nations,False
 Finland,14 December 1955,,False
 France,24 October 1945,France and the United Nations,True
 Gabon,20 September 1960,,False
-Republic of The Gambia,21 September 1965,,False
+Gambia (Republic of The),21 September 1965,,False
 Georgia,31 July 1992,Former member: Union of Soviet Socialist Republics (original member),False
-Germany,18 September 1973,Former member: German Democratic Republic and Germany and the United Nations East Germany and West Germany were admitted separately on the same date; they unified in 1991.,False
+Germany,18 September 1973,Former member: German Democratic Republic and Germany and the United Nations East Germany and West Germany were admitted separately on the same date; they unified in 1990.,False
 Ghana,8 March 1957,,False
 Greece,25 October 1945,,True
 Grenada,17 September 1974,,False
 Guatemala,21 November 1945,,True
 Guinea,12 December 1958,,False
-Guinea-Bissau,17 September 1974,,False
+Guinea Bissau,17 September 1974,,False
 Guyana,20 September 1966,,False
 Haiti,24 October 1945,,True
 Honduras,17 December 1945,,True
 Hungary,14 December 1955,,False
 Iceland,19 November 1946,,False
 India,30 October 1945,India and the United Nations,True
-Indonesia,28 September 1950,Withdrawal of Indonesia (1965-1966) and Indonesia and the United Nations Withdrew from the UN on 20 January 1965. It rejoined on 28 September 1966.,False
-Islamic Republic of Iran,24 October 1945,"Previously referred to as Iran. By a communication of 4 November 1982, Iran informed the Secretary-General that it should be referred to as the Islamic Republic of Iran.[citation needed]",True
+Indonesia,28 September 1950,Withdrawal of Indonesia (1965–1966) and Indonesia and the United Nations Withdrew from the UN on 20 January 1965. It rejoined on 28 September 1966.,False
+Iran (Islamic Republic of),24 October 1945,"Previously referred to as Iran. By a communication of 4 November 1982, Iran informed the Secretary-General that it should be referred to as the Islamic Republic of Iran.[citation needed]",True
 Iraq,21 December 1945,,True
 Ireland,14 December 1955,,False
 Israel,11 May 1949,Israel and the United Nations,False
@@ -96,7 +96,7 @@ Latvia,17 September 1991,,False
 Lebanon,24 October 1945,Lebanon and the United Nations,True
 Lesotho,17 October 1966,,False
 Liberia,2 November 1945,,True
-Libya,14 December 1955,"Formerly recognised as the Libyan Arab Republic from 1969 after originally being admitted as Libya. By notes verbales of 1 and 21 April 1977, the Libyan Arab Republic advised that it had changed its name to the Libyan Arab Jamahiriya. On 16 September 2011, the UN General Assembly awarded the UN seat to the National Transitional Council, thereby restoring the original name of Libya. On 12 December 2022, the Credentials Committee deferred a decision on allowing the Government of National Stability to represent Libya at the U.N., allowing the Government of National Unity to retain the seat.[16]",False
+Libya,14 December 1955,"Formerly recognised as the Libyan Arab Republic from 1969 after originally being admitted as Libya. By notes verbales of 1 and 21 April 1977, the Libyan Arab Republic advised that it had changed its name to the Libyan Arab Jamahiriya. On 16 September 2011, the UN General Assembly awarded the UN seat to the National Transitional Council, thereby restoring the original name of Libya. On 12 December 2022, the Credentials Committee deferred a decision on allowing the Government of National Stability to represent Libya at the U.N., allowing the Government of National Unity to retain the seat.[14]",False
 Liechtenstein,18 September 1990,Liechtenstein and the United Nations,False
 Lithuania,17 September 1991,,False
 Luxembourg,24 October 1945,Luxembourg and the United Nations,True
@@ -110,17 +110,17 @@ Marshall Islands,17 September 1991,Marshall Islands and the United Nations,False
 Mauritania,27 October 1961,,False
 Mauritius,24 April 1968,,False
 Mexico,7 November 1945,Mexico and the United Nations,True
-Federated States of Micronesia,17 September 1991,Federated States of Micronesia and the United Nations,False
+Micronesia (Federated States of),17 September 1991,Federated States of Micronesia and the United Nations,False
 Monaco,28 May 1993,,False
 Mongolia,27 October 1961,,False
 Montenegro,28 June 2006,"Former member: Yugoslavia (original member), Serbia and Montenegro",False
 Morocco,12 November 1956,,False
 Mozambique,16 September 1975,,False
-Myanmar,19 April 1948,"Name was changed from Burma on 17 June 1989. On 1 December 2021, the Credentials Committee of the General Assembly voted to defer a decision to allow Myanmar's ruling military junta to represent the country at the UN.[13] The Credentials Committee again deferred the decision on 12 December 2022.[16] The Credentials Committee again deferred the decision on 6 December 2023.[17][18]",False
+Myanmar,19 April 1948,"Name was changed from Burma on 17 June 1989. On 1 December 2021, the Credentials Committee of the General Assembly voted to defer a decision to allow Myanmar's ruling military junta to represent the country at the UN.[25] The Credentials Committee again deferred the decision on 12 December 2022.[14] The Credentials Committee again deferred the decision on 6 December 2023.[15][16]",False
 Namibia,23 April 1990,,False
 Nauru,14 September 1999,,False
 Nepal,14 December 1955,,False
-Kingdom of the Netherlands,10 December 1945,,True
+Netherlands (Kingdom of the),10 December 1945,,True
 New Zealand,24 October 1945,New Zealand and the United Nations,True
 Nicaragua,24 October 1945,,True
 Niger,20 September 1960,,False
@@ -148,7 +148,7 @@ Saint Lucia,18 September 1979,,False
 Saint Vincent and the Grenadines,16 September 1980,,False
 Samoa,15 December 1976,"The country was formerly named ""Western Samoa"" until 4 July 1997, but nevertheless always referred to as just ""Samoa"".",False
 San Marino,2 March 1992,,False
-São Tomé and Príncipe,16 September 1975,,False
+Sao Tome and Principe,16 September 1975,,False
 Saudi Arabia,24 October 1945,,True
 Senegal,28 September 1960,,False
 Serbia,1 November 2000,"Former member: Yugoslavia (original member), Serbia and Montenegro, and Serbia and the United Nations",False
@@ -187,8 +187,8 @@ United States of America,24 October 1945,United States and the United Nations,Tr
 Uruguay,18 December 1945,,True
 Uzbekistan,2 March 1992,Former member: Union of Soviet Socialist Republics (original member),False
 Vanuatu,15 September 1981,Vanuatu and the United Nations,False
-Bolivarian Republic of Venezuela,15 November 1945,Previously referred to as Venezuela until 17 November 2004.,True
-Viet Nam,20 September 1977,,False
+Venezuela (Bolivarian Republic of),15 November 1945,Previously referred to as Venezuela until 17 November 2004.,True
+Vietnam,20 September 1977,,False
 Yemen,30 September 1947,Former members: Yemen and People's Democratic Republic of Yemen,False
 Zambia,1 December 1964,,False
 Zimbabwe,25 August 1980,,False
